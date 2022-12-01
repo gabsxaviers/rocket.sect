@@ -47,6 +47,7 @@ ul li a:hover {
 
 main {
   display: flex;
+  gap: 85px;
   align-items: center;
   justify-content: space-between;
   
@@ -61,7 +62,7 @@ h1 {
 
   font-family: 'JetBrains Mono', monospace;
 
-  margin-left: 77px;
+  
 }
 
 span {
@@ -76,7 +77,7 @@ section p {
   line-height: 28px;
   font-weight: normal;
 
-  margin-left: 82px;
+  
   
   text-align: center;
 }
